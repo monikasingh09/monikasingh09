@@ -24,6 +24,16 @@ I'm a Data Analayst with expertise in data analysis and  and data visualizations
 ***
 
 
+***
+
+## 📜SQL
+
+| Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
+|-----|---|---|---|
+|[![MySQL](https://img.shields.io/badge/DANNYMA's-SQL-FFE305?.svg?style=for-the-badge&logo=polywork&logoColor=white)](https://github.com/monikasingh09/Danny-Ma-s-SQL-challenges)(click icon to view)| MySQL |Data analysis, Data cleaning, Data Exploration | This repo serves as the solution for some of the 8 case studies from the [#8WeekSQLChallenge](https://8weeksqlchallenge.com). It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills. |
+|[![supermarket](https://img.shields.io/badge/-TARGET-e0e0e0?style=for-the-badge&logo=target&logoColor=red)](https://github.com/monikasingh09/Target)(click icon to view)| Google BigQuery | Data analysis, Data Exploration | This repo serves as the solution for the Buisness Case Study for the giant retail stores in Brazil. It showcases my ability to tackle SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills and conferring Insights and Recommendations. |
+
+
 
 ## 🪄Tableau & PowerBi
 
@@ -37,7 +47,7 @@ I'm a Data Analayst with expertise in data analysis and  and data visualizations
 <p>
   Here are some of the Tools and Languages that I use:
   
->  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+>  ![Google Drive](https://img.shields.io/badge/Google%20BigQuery-4287F4?style=plastic&logo=google-cloud&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
 
 > ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Visual Studio Code](https://img.shields.io/badge/VisualStudio-%20Code-0078d7.svg?style=plastic&logo=eclipse&logoColor=white)
  ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![jupyter](https://img.shields.io/badge/Jupyter-Lab-F37626.svg?style=plastic&logo=Jupyter) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebooks-%23FF6F00.svg?style=plastic&logo=jupyter&logoColor=white)
