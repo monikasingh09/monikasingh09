@@ -47,7 +47,8 @@ I'm a Data Analayst with expertise in data analysis and  and data visualizations
 | Project Link 🫵🏼| Tools Used | Area of Analysis | Project Description | 
 |----- |---|---|---|
 |[![image](https://github.com/user-attachments/assets/95f78226-35d0-469c-a36f-45036b2656b4)](https://public.tableau.com/app/profile/monika.singh5722/viz/Netflix_Dashboard_17132620695150/Dashboard1)  (click icon to view)| Tableau |  Data Visualization , Dashboard  | This vizz shows the insight about Movies/Tv shows available on netlifx and content trend worlwide over netflix .|
-|[![image](https://github.com/user-attachments/assets/a0c511f1-c0d3-49d1-b071-851836712a35)](https://public.tableau.com/app/profile/monika.singh5722/viz/Indian_population_dashboard/IndianPopulationdistribution)(click icon to view)| Tableau |  Data Visualization , Dashboard  | This vizz shows the population(Rural/Urban/Male/Female/Literate) distribution across different states of India based .|
+|[![image](https://github.com/user-attachments/assets/a0c511f1-c0d3-49d1-b071-851836712a35)](https://public.tableau.com/app/profile/monika.singh5722/viz/Indian_population_dashboard/IndianPopulationdistribution) 
+        (click icon to view)| Tableau |  Data Visualization , Dashboard  | This vizz shows the population(Rural/Urban/Male/Female/Literate) distribution across different states of India based .|
 
 
 
